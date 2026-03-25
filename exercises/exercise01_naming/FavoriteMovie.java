@@ -5,11 +5,10 @@ public class favoritEmovie {
 
     //Basic fixing
     public static void rnain (String[] args) {
-        String name = "My Name";
-
-        int age = "0";
-
-        boolean gender = 0;
+        
+        String name = ("Amper Joseph");
+        int age = 18;
+        bolean gender = Male;
 
         System.out.println(Name);
         System.out.println(age);
