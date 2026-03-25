@@ -10,7 +10,7 @@ public class favoriteMovie {
         int age = 18;
         bolean gender = true;
 
-        System.out.println(Name);
+        System.out.println(name);
         System.out.println(age);
         System.out.println(gender);
     }
