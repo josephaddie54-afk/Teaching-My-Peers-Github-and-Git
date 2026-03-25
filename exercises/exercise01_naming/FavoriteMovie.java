@@ -1,6 +1,6 @@
 package exercises.exercise01_naming;
 
-public class favoriteMovie {
+public class FavoriteMovie {
     //New excercise make sure to synx it first
 
     //Basic fixing
